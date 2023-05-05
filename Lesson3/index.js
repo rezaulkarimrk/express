@@ -18,6 +18,7 @@ app.post("/register", (req, res) => {
     // const age = req.body.age;
     // res.send(`Welcome ${name}, youre age is ${age}`);
 });
+ 
 
 // app.post("/users", (req, res) => {
 //     const name = req.body.name;
